@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://olerast67.github.io/voice-teleprompter-android/sitemap.xml
